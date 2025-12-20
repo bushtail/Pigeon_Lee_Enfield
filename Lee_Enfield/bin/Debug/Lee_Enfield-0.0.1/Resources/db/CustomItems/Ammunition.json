@@ -1,0 +1,358 @@
+﻿{
+  "692e2f12c8c7cc41a93d9f5f": {
+    "itemTplToClone": "5e023e53d4353e3302577c4c",
+    "parentId": "5485a8684bdc2da71d8b4567",
+    "handbookParentId": "5b47574386f77428ca22b33b",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Ammunition/patron_7.7x56_round_nosed.bundle",
+        "rcid": ""
+      },
+      "ExaminedByDefault": true,
+      "Weight": 0.027,
+      "InitialSpeed": 760,
+      "BallisticCoeficient": 0.543,
+      "BulletMassGram": 12.8,
+      "BulletDiameterMilimeters": 7.92,
+      "Damage": 88,
+      "ammoAccr": 1,
+      "ammoRec": 0,
+      "PenetrationPower": 43,
+      "PenetrationPowerDiviation": 0.19,
+      "ArmorDamage": 81,
+      "DurabilityBurnModificator": 1.32,
+      "HeatFactor": 1.37,
+      "HeavyBleedingDelta": 0.1,
+      "LightBleedingDelta": 0.1,
+      "MalfFeedChance": 0.036,
+      "Caliber": "Caliber77x56R"
+    },
+    "locales": {
+      "en": {
+        "name": ".303 British (7.7x56mmR) MK.II Round Nosed",
+        "shortName": "Round Nosed",
+        "description": "7.7x56mmR MK.II is a 215 grain Round-Nosed copper-nickel with a lead core."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "fleaPriceRoubles": 490,
+    "handbookPriceRoubles": 490,
+    "addtoTraders": true,
+    "traders": {
+      "PRAPOR": {
+        "692f0e433be8c63f6555c1c5": {
+          "barterSettings": {
+            "loyalLevel": 1,
+            "unlimitedCount": true,
+            "stackObjectsCount": 40,
+            "buyRestrictionMax": 100
+          },
+          "barters": [
+            {
+              "count": 15000,
+              "_tpl": "MONEY_ROUBLES",
+              "onlyFunctional": false,
+              "sptQuestLocked": false
+            }
+          ]
+        }
+      }
+    },
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [
+      {
+        "containerName": "weapon_box",
+        "probability": 10
+      }
+    ],
+    "masteries": false
+  },
+  "692f0c77d8e04cd4a155c1c2": {
+    "itemTplToClone": "5e023e53d4353e3302577c4c",
+    "parentId": "5485a8684bdc2da71d8b4567",
+    "handbookParentId": "5b47574386f77428ca22b33b",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Ammunition/patron_ball.bundle",
+        "rcid": ""
+      },
+      "ExaminedByDefault": true,
+      "Weight": 0.027,
+      "InitialSpeed": 760,
+      "BallisticCoeficient": 0.543,
+      "BulletMassGram": 12.8,
+      "BulletDiameterMilimeters": 7.92,
+      "Damage": 88,
+      "ammoAccr": 1,
+      "ammoRec": 0,
+      "PenetrationPower": 43,
+      "PenetrationPowerDiviation": 0.19,
+      "ArmorDamage": 81,
+      "DurabilityBurnModificator": 1.32,
+      "HeatFactor": 1.37,
+      "HeavyBleedingDelta": 0.1,
+      "LightBleedingDelta": 0.1,
+      "MalfFeedChance": 0.036,
+      "Caliber": "Caliber77x56R"
+    },
+    "locales": {
+      "en": {
+        "name": ".303 British (7.7x56mmR) MK.VII Spitzer",
+        "shortName": "Spitzer",
+        "description": "7.7x56mmR MK.VII Spitzer copper-nickel with an aluminium core."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "fleaPriceRoubles": 490,
+    "handbookPriceRoubles": 490,
+    "addtoTraders": true,
+    "traders": {
+      "PRAPOR": {
+        "692f0e4c280371850255c1c6": {
+          "barterSettings": {
+            "loyalLevel": 2 ,
+            "unlimitedCount": true,
+            "stackObjectsCount": 40,
+            "buyRestrictionMax": 100
+          },
+          "barters": [
+            {
+              "count": 15000,
+              "_tpl": "MONEY_ROUBLES",
+              "onlyFunctional": false,
+              "sptQuestLocked": false
+            }
+          ]
+        }
+      }
+    },
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [
+      {
+        "containerName": "weapon_box",
+        "probability": 10
+      }
+    ],
+    "masteries": false
+  },
+  "692f0d4a782654cf5b55c1c4": {
+    "itemTplToClone": "5e023e53d4353e3302577c4c",
+    "parentId": "5485a8684bdc2da71d8b4567",
+    "handbookParentId": "5b47574386f77428ca22b33b",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Ammunition/patron_hollow.bundle",
+        "rcid": ""
+      },
+      "ExaminedByDefault": true,
+      "Weight": 0.027,
+      "InitialSpeed": 760,
+      "BallisticCoeficient": 0.543,
+      "BulletMassGram": 12.8,
+      "BulletDiameterMilimeters": 7.92,
+      "Damage": 88,
+      "ammoAccr": 1,
+      "ammoRec": 0,
+      "PenetrationPower": 43,
+      "PenetrationPowerDiviation": 0.19,
+      "ArmorDamage": 81,
+      "DurabilityBurnModificator": 1.32,
+      "HeatFactor": 1.37,
+      "HeavyBleedingDelta": 0.1,
+      "LightBleedingDelta": 0.1,
+      "MalfFeedChance": 0.036,
+      "Caliber": "Caliber77x56R"
+    },
+    "locales": {
+      "en": {
+        "name": ".303 British (7.7x56mmR) MK.IV Hollow Point",
+        "shortName": "Dum-Dum",
+        "description": "7.7x56mmR MK.IV Hollow Point copper-nickel Bullet."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "fleaPriceRoubles": 490,
+    "handbookPriceRoubles": 490,
+    "addtoTraders": true,
+    "traders": {
+      "PRAPOR": {
+        "692f0e54b342dd6b8355c1c7": {
+          "barterSettings": {
+            "loyalLevel": 1 ,
+            "unlimitedCount": true,
+            "stackObjectsCount": 40,
+            "buyRestrictionMax": 100
+          },
+          "barters": [
+            {
+              "count": 15000,
+              "_tpl": "MONEY_ROUBLES",
+              "onlyFunctional": false,
+              "sptQuestLocked": false
+            }
+          ]
+        }
+      }
+    },
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [
+      {
+        "containerName": "weapon_box",
+        "probability": 10
+      }
+    ],
+    "masteries": false
+  },
+  "692f0ffe63a608e0ee55c1c9": {
+    "itemTplToClone": "5e023e53d4353e3302577c4c",
+    "parentId": "5485a8684bdc2da71d8b4567",
+    "handbookParentId": "5b47574386f77428ca22b33b",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Ammunition/patron_raptor.bundle",
+        "rcid": ""
+      },
+      "ExaminedByDefault": true,
+      "Weight": 0.027,
+      "InitialSpeed": 760,
+      "BallisticCoeficient": 0.543,
+      "BulletMassGram": 12.8,
+      "BulletDiameterMilimeters": 7.92,
+      "Damage": 88,
+      "ammoAccr": 1,
+      "ammoRec": 0,
+      "PenetrationPower": 43,
+      "PenetrationPowerDiviation": 0.19,
+      "ArmorDamage": 81,
+      "DurabilityBurnModificator": 1.32,
+      "HeatFactor": 1.37,
+      "HeavyBleedingDelta": 0.1,
+      "LightBleedingDelta": 0.1,
+      "MalfFeedChance": 0.036,
+      "Caliber": "Caliber77x56R"
+    },
+    "locales": {
+      "en": {
+        "name": ".303 British (7.7x56mmR) 130GR ESP RAPTOR ",
+        "shortName": "RAPTOR",
+        "description": "Specifically designed for the 303 British. Enhanced System Projectile designed to be shot as a hollow point without the Raptor Tip™, a hollow point with the supplied Raptor Tip™ installed for long range shooting"
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "fleaPriceRoubles": 490,
+    "handbookPriceRoubles": 490,
+    "addtoTraders": true,
+    "traders": {
+      "PRAPOR": {
+        "692f1010044a5909fb55c1ca": {
+          "barterSettings": {
+            "loyalLevel": 2 ,
+            "unlimitedCount": true,
+            "stackObjectsCount": 40,
+            "buyRestrictionMax": 100
+          },
+          "barters": [
+            {
+              "count": 15000,
+              "_tpl": "MONEY_ROUBLES",
+              "onlyFunctional": false,
+              "sptQuestLocked": false
+            }
+          ]
+        }
+      }
+    },
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [
+      {
+        "containerName": "weapon_box",
+        "probability": 10
+      }
+    ],
+    "masteries": false
+  },
+  "692f101c11959e9c7255c1cb": {
+    "itemTplToClone": "5e023e53d4353e3302577c4c",
+    "parentId": "5485a8684bdc2da71d8b4567",
+    "handbookParentId": "5b47574386f77428ca22b33b",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Ammunition/patron_raptor_hollow.bundle",
+        "rcid": ""
+      },
+      "ExaminedByDefault": true,
+      "Weight": 0.027,
+      "InitialSpeed": 760,
+      "BallisticCoeficient": 0.543,
+      "BulletMassGram": 12.8,
+      "BulletDiameterMilimeters": 7.92,
+      "Damage": 88,
+      "ammoAccr": 1,
+      "ammoRec": 0,
+      "PenetrationPower": 43,
+      "PenetrationPowerDiviation": 0.19,
+      "ArmorDamage": 81,
+      "DurabilityBurnModificator": 1.32,
+      "HeatFactor": 1.37,
+      "HeavyBleedingDelta": 0.1,
+      "LightBleedingDelta": 0.1,
+      "MalfFeedChance": 0.036,
+      "Caliber": "Caliber77x56R"
+    },
+    "locales": {
+      "en": {
+        "name": ".303 British (7.7x56mmR) 130GR ESP RAPTOR Hollow Point",
+        "shortName": "RAPTOR",
+        "description": "Specifically designed for the 303 British. Enhanced System Projectile designed to be shot as a hollow point without the Raptor Tip™, a hollow point with the supplied Raptor Tip™ installed for long range shooting"
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "fleaPriceRoubles": 490,
+    "handbookPriceRoubles": 490,
+    "addtoTraders": true,
+    "traders": {
+      "PRAPOR": {
+        "692f1010044a5909fb55c1ca": {
+          "barterSettings": {
+            "loyalLevel": 2 ,
+            "unlimitedCount": true,
+            "stackObjectsCount": 40,
+            "buyRestrictionMax": 100
+          },
+          "barters": [
+            {
+              "count": 15000,
+              "_tpl": "MONEY_ROUBLES",
+              "onlyFunctional": false,
+              "sptQuestLocked": false
+            }
+          ]
+        }
+      }
+    },
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [
+      {
+        "containerName": "weapon_box",
+        "probability": 10
+      }
+    ],
+    "masteries": false
+  }
+  
+}

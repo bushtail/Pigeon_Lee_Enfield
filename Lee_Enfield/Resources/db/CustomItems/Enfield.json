@@ -1,0 +1,328 @@
+﻿{
+
+  "692ecfe91caa36dcb655c1c0": {
+    "itemTplToClone": "54491c4f4bdc2db1078b4568",
+    "parentId": "5447b6094bdc2dc3278b4567",
+    "handbookParentId": "5b5f794b86f77409407a7f92",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "marlin/weapon_marlin_m1895_mxlr_784x49_container.bundle",
+        "rcid": ""
+      },
+      "SingleFireRate": 100,
+      "Ergonomics": 26.8,
+      "RecoilForceBack": 614,
+      "RecoilForceUp": 202,
+      "HeatfactorByShot": 1.37,
+      "defAmmo": "58dd3ad986f77403051cba8f",
+      "ammoCaliber": "Caliber77x56R",
+      "BackgroundColor": "violet",
+      "Weight": 3.075,
+      "Chambers": [
+        {
+          "_id": "667b72c523b931c60b3e77f9",
+          "_mergeSlotWithChildren": false,
+          "_name": "patron_in_weapon",
+          "_parent": "667b693466834848ed0c05a6",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "692e2f12c8c7cc41a93d9f5f",
+                  "692f0c77d8e04cd4a155c1c2",
+                  "692f0d4a782654cf5b55c1c4",
+                  "692f0e736e7727d27c55c1c8",
+                  "692f0ffe63a608e0ee55c1c9",
+                  "692f101c11959e9c7255c1cb"
+                ]
+              }
+            ]
+          },
+          "_proto": "55d4af244bdc2d962f8b4571",
+          "_required": false
+        }
+      ],
+      "Slots": [
+        {
+          "_name": "mod_barrel",
+          "_id": "63c388a62e825d20b87ed7a7",
+          "_parent": "68b192a29352f61e8d8f8d6d",
+          "_props": {
+            "filters": [
+              {
+                "Shift": 0,
+                "Filter": [
+                  "691b44ba7a04c6d6147341d7",
+                  "691b44cfe334b318647341d8"
+                ]
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_charge",
+          "_id": "b6efdbe87343f0ebd5270dc2",
+          "_parent": "68b192a29352f61e8d8f8d6d",
+          "_props": {
+            "filters": [
+              {
+                "Shift": 0,
+                "Filter": [
+                  "6918e0cebfe2a003c1e91213",
+                  "6918f2aa8fe8adb8f8f66c03",
+                  "6918f2b1a5b79ddbd7f66c05"
+                ]
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_magazine",
+          "_id": "68608fe77d01d5d1282a8d0f",
+          "_parent": "68b192a29352f61e8d8f8d6d",
+          "_props": {
+            "filters": [
+              {
+                "Shift": 0,
+                "Filter": [
+                  "692ed0184eeff8376755c1c1"
+                ]
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_mount",
+          "_id": "25c15334d22715a223fe77d1",
+          "_parent": "68b192a29352f61e8d8f8d6d",
+          "_props": {
+            "filters": [
+              {
+                "AnimationIndex": -1,
+                "Filter": [
+                  "6918e0dea809aa3fa764b4fc"
+                ]
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c394bdc2dae468b4577"
+        },
+        {
+          "_name": "mod_stock",
+          "_id": "25c15334d22715a223fe77d1",
+          "_parent": "68b192a29352f61e8d8f8d6d",
+          "_props": {
+            "filters": [
+              {
+                "AnimationIndex": -1,
+                "Filter": [
+                  "6918e0fa4cba288853cdd352",
+                  "6918fb2b22575a728ef66c27",
+                  "6918fbeb2788ed338cf66c2e",
+                  "6918fc9b598fc98970f66c30",
+                  "6918feaaf23a992f2bf66c32",
+                  "6918febf5de2d49393f66c34"
+                ]
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c394bdc2dae468b4577"
+        },
+        {
+          "_name": "mod_hammer",
+          "_id": "25c15334d22715a223fe77d1",
+          "_parent": "68b192a29352f61e8d8f8d6d",
+          "_props": {
+            "filters": [
+              {
+                "AnimationIndex": -1,
+                "Filter": [
+                  "6918e0d2fc89dd66a9263866"
+                ]
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c394bdc2dae468b4577"
+        },
+        {
+          "_name": "mod_trigger",
+          "_id": "25c15334d22715a223fe77d1",
+          "_parent": "68b192a29352f61e8d8f8d6d",
+          "_props": {
+            "filters": [
+              {
+                "AnimationIndex": -1,
+                "Filter": [
+                  "6918e0f69843398742526b85",
+                  "6918fa3cbccf3873faf66c23",
+                  "6918faec64ae2fbba4f66c25"
+                ]
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c394bdc2dae468b4577"
+        }
+      ],
+      "weapFireType": [
+        "single",
+        "fullauto"
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "Marlin MXLR .303 British ME lever-action rifle",
+        "shortName": "MXLR",
+        "description": "The classic Marlin 1895 lever-action rifle in the MXLR (Marlin Express LEVERevolution) variant. A modern take on the timeless Henry-style lever-action. Comes in a chrome finish an chambered or the special .308 Marlin Express cartridge. "
+      }
+    },
+    "addtoInventorySlots": [
+      "FirstPrimaryWeapon",
+      "SecondPrimaryWeapon"
+    ],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "fleaPriceRoubles": 18397,
+    "handbookPriceRoubles": 18397,
+    "addtoTraders": false,
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 250
+      },
+      {
+        "containerName": "LOOTCONTAINER_DEAD_SCAV",
+        "probability": 150
+      }
+    ],
+    "masteries": true,
+    "traders": {},
+    "masterySections": [
+      {
+        "Level2": 1600,
+        "Level3": 2000,
+        "Name": "M4",
+        "Templates": []
+      }
+    ]
+  },
+  "692ed0184eeff8376755c1c1": {
+    "itemTplToClone": "55d484b44bdc2d1d4e8b456d",
+    "parentId": "5448bc234bdc2d3c308b4569",
+    "handbookParentId": "5b5f754a86f774094242f19b",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "marlin/mag_m1895_marlin_mxlr_784x49_5.bundle",
+        "rcid": ""
+      },
+      "Weight": 0.3,
+      "Width": 2,
+      "Height": 1,
+      "Conflictingitems": [],
+      "Slots": [],
+      "Cartridges": [
+        {
+          "_name": "cartridges",
+          "_id": "57487c4f2459771f6f1cac31",
+          "_parent": "6918e0d9dbdb7b116ed7c69a",
+          "_max_count": 5,
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "692e2f12c8c7cc41a93d9f5f",
+                  "692f0c77d8e04cd4a155c1c2",
+                  "692f0d4a782654cf5b55c1c4",
+                  "692f0e736e7727d27c55c1c8",
+                  "692f0ffe63a608e0ee55c1c9",
+                  "692f101c11959e9c7255c1cb"
+                ]
+              }
+            ]
+          },
+          "_proto": "5748538b2459770af276a261"
+        }
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "MXLR .303 British ME 5-round magazine",
+        "shortName": "MXLR",
+        "description": "A 5-round .308 ME tube magazine for the Marlin MLXR riffle. "
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_pistol_grip"
+    ],
+    "fleaPriceRoubles": 14300,
+    "handbookPriceRoubles": 2900,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 2000
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 2000
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 2000
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 2000
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 2000
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 2000
+      }
+    ],
+    "masteries": false,
+    "traders": {
+      "SKIER": {
+        "692ecfe23c823848e255c1bf": {
+          "barterSettings": {
+            "loyalLevel": 3,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 3950,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    }
+  }
+}
