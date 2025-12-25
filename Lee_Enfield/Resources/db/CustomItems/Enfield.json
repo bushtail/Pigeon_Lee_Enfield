@@ -247,7 +247,7 @@
       "Recoil": -9,
       "Ergonomics": -14,
       "Accuracy": 1.31,
-      "ExtraSizeLeft": 2,
+      "ExtraSizeLeft": 3,
       "Height": 1,
       "Width": 3,
       "Conflictingitems": []
@@ -353,7 +353,7 @@
       "Accuracy": 1.31,
       "ExtraSizeLeft": 2,
       "Height": 1,
-      "Width": 3,
+      "Width": 1,
       "Conflictingitems": []
     },
     "locales": {
