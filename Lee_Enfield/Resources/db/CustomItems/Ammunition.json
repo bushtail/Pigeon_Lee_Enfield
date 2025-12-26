@@ -50,7 +50,7 @@
           },
           "barters": [
             {
-              "count": 15000,
+              "count": 140,
               "_tpl": "MONEY_ROUBLES",
               "onlyFunctional": false,
               "sptQuestLocked": false
@@ -120,7 +120,7 @@
           },
           "barters": [
             {
-              "count": 15000,
+              "count": 180,
               "_tpl": "MONEY_ROUBLES",
               "onlyFunctional": false,
               "sptQuestLocked": false
@@ -190,7 +190,7 @@
           },
           "barters": [
             {
-              "count": 15000,
+              "count": 250,
               "_tpl": "MONEY_ROUBLES",
               "onlyFunctional": false,
               "sptQuestLocked": false
@@ -260,7 +260,7 @@
           },
           "barters": [
             {
-              "count": 15000,
+              "count": 240,
               "_tpl": "MONEY_ROUBLES",
               "onlyFunctional": false,
               "sptQuestLocked": false
@@ -330,7 +330,7 @@
           },
           "barters": [
             {
-              "count": 15000,
+              "count": 300,
               "_tpl": "MONEY_ROUBLES",
               "onlyFunctional": false,
               "sptQuestLocked": false
