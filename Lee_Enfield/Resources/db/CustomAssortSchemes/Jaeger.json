@@ -1,0 +1,55 @@
+﻿{
+    "JAEGER": {
+        "items": [
+            {
+                "_id": "6951a74769c2468c9d05ef4b",
+                "_tpl": "692ecfe91caa36dcb655c1c0",
+                "parentId": "hideout",
+                "slotId": "hideout",
+                "upd": {
+                    "StackObjectsCount": 9999999,
+                    "UnlimitedCount": true,
+                    "Repairable": {
+                        "Durability": 100,
+                        "MaxDurability": 100
+                    },
+                    "FireMode": {
+                        "FireMode": "single"
+                    },
+                    "BuyRestrictionMax": 1907
+                }
+            },
+            {
+                "_id": "6951a74769c2468c9d05ef4c",
+                "_tpl": "694bf141fdb834a00f54cd5e",
+                "parentId": "6951a74769c2468c9d05ef4b",
+                "slotId": "mod_magazine"
+            },
+            {
+                "_id": "6951a74769c2468c9d05ef4d",
+                "_tpl": "694bea8c248efba10d54cd5c",
+                "parentId": "6951a74769c2468c9d05ef4b",
+                "slotId": "mod_barrel"
+            },
+            {
+                "_id": "6951a74769c2468c9d05ef4e",
+                "_tpl": "694be0c15c1ba7adae54cd5a",
+                "parentId": "6951a74769c2468c9d05ef4b",
+                "slotId": "mod_stock"
+            }
+        ],
+        "barter_scheme": {
+            "6951a74769c2468c9d05ef4b": [
+                [
+                    {
+                        "count": 18000,
+                        "_tpl": "5449016a4bdc2d6f028b456f"
+                    }
+                ]
+            ]
+        },
+        "loyal_level_items": {
+            "6951a74769c2468c9d05ef4b": 2
+        }
+    }
+}

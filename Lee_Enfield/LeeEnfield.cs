@@ -35,6 +35,7 @@ public class LeeEnfield(WTTServerCommonLib.WTTServerCommonLib wttCommon) : IOnLo
         Assembly assembly = Assembly.GetExecutingAssembly();
         await wttCommon.CustomItemServiceExtended.CreateCustomItems(assembly);
         await wttCommon.CustomHideoutRecipeService.CreateHideoutRecipes(assembly);
+        await wttCommon.CustomAssortSchemeService.CreateCustomAssortSchemes(assembly);
         await Task.CompletedTask;
     }
 }
