@@ -68,7 +68,7 @@
         },
         "locales": {
             "en": {
-                "name": "7.7x56mmR Mk IV Hollow Point Projectile ",
+                "name": "7.7x56mmR Mk IV Hollow Point Projectile",
                 "shortName": "Mk IV",
                 "description": "A 215-grain round-nosed hollow-point projectile with a partial cupro-nickel jacket with an exposed lead nose."
             }
@@ -123,7 +123,7 @@
         },
         "locales": {
             "en": {
-                "name": "7.7x56mmR Mk VII Spitzer Projectile ",
+                "name": "7.7x56mmR Mk VII Spitzer Projectile",
                 "shortName": "Mk VII",
                 "description": "A flat-based spitzer bullet with a lead alloy base and a tip of lighter compressed material at the nose."
             }
@@ -288,7 +288,7 @@
         },
         "locales": {
             "en": {
-                "name": "7.7x56mmR Brass Casings",
+                "name": "7.7x56mmR Brass Casing",
                 "shortName": "Casing",
                 "description": "A standard brass casing for the 7.7x56mmR cartridge."
             }
